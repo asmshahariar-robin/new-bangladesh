@@ -9,7 +9,7 @@ body {
   background-color: #ebebeb;
   max-width: 1400px;
   margin: auto;
-  height: 1000vh;
+  /* height: 1000vh; */
 }
 
 nav {
